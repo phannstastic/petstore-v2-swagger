@@ -15,7 +15,7 @@ The tests are executed using Postman’s Collection Runner.
 - `DELETE /pet/{petId}` – Delete pet (valid & invalid ID)
 
 ## 📜Test Cases
-https://drive.google.com/drive/folders/1hNLC8WfBSroG6DgK0enLolbpr-b_XfeW?usp=sharing
+https://docs.google.com/spreadsheets/d/1m4I8VpBhFuYC1Q7w5vk_eQcS7_gt-gLM/edit?usp=drivesdk
 
 ## 📸 Test Results
 ![Screenshot – Collection Runner Result](screenshot/test-result.png)
